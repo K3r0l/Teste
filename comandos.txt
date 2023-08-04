@@ -1,0 +1,5 @@
+git init
+git config user.name NOME
+gt config user.email EMAIL
+git add --all
+git commit -m "Descrição do commit"
